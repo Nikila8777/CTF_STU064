@@ -62,7 +62,7 @@ review-ctf-STU064/
 
 ├── requirements.txt        # Dependencies to reproduce the environment
 
-└── .gitignore
+
 
 ```
 
